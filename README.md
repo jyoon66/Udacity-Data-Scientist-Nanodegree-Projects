@@ -1,3 +1,3 @@
 # Udacity-Data-Scientist-Nanodegree-Projects
 
-All of projects and code for the Udacity Data Scientist Nanodegree.
+All of my projects and code for the Udacity Data Scientist Nanodegree.
